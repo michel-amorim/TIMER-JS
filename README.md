@@ -8,9 +8,6 @@
 
 - Seção 3 javascript - lógica de programação - Aula 66
 
-## Implantação em produção
-
-- Front end web: Netlify
 
 # Tecnologias utilizadas
 
